@@ -9,7 +9,7 @@ Simple test project for [Bluesky](https://blueskyweb.xyz/) "firehose"
 Create a `.env` file with the config parameters
 
 ```conf
-BLUESKY_SERVER=https://bsky.social
+BLUESKY_SERVER=wss://bsky.social
 BLUESKY_USERNAME=<username>
 BLUESKY_PASSWORD=<password>
 ```
